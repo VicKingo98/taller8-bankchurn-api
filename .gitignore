@@ -1,0 +1,22 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+# Credenciales y configuración local
+.env
+.env.*
+*.pem
+*.ppk
+.aws/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
